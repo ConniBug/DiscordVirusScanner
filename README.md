@@ -4,4 +4,4 @@ After finding https://github.com/NoNameG0d/DiscordIntegrityChecker
 
 I decided to remake it from scratch while also improving on it making it dynamic af. 
 
-![Screenshot](Assets/screenshot.jpg)
+![Screenshot](https://raw.githubusercontent.com/ConniBug/DiscordVirusScanner/main/Assets/Screenshot.jpg)
